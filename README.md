@@ -15,7 +15,7 @@ This is a sketch-level prototype. It's not yet a full product, but it outlines h
 
 ## Read More
 
-[Substack essays explaining the framework](https://your-substack-link-here.com)
+[Substack essays explaining the framework](https://substack.com/@sirterrynce)
 
 ## License
 
